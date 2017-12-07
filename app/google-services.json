@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "654299183555",
+    "firebase_url": "https://fir-signin-baca7.firebaseio.com",
+    "project_id": "fir-signin-baca7",
+    "storage_bucket": "fir-signin-baca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654299183555:android:b04ba1d1a37daa3c",
+        "android_client_info": {
+          "package_name": "com.example.tchavan.firebasesigninexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654299183555-k9j3squbq3bmlm7mrnc872n9inigfju7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tchavan.firebasesigninexample",
+            "certificate_hash": "e268c934299892814b393baddb26bcbd55ac8b11"
+          }
+        },
+        {
+          "client_id": "654299183555-skfbosj44pbja0lm2a5ee6m1n4igchbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUPCbsP6CPx83_p5EkAYETQd7_vMkLCdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654299183555-skfbosj44pbja0lm2a5ee6m1n4igchbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
